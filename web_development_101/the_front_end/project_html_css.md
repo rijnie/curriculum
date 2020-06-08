@@ -6804,6 +6804,9 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [Dr.Baxter's Solution (Easy)](https://github.com/DrBaxter/Google-Recode) - [View in Browser](https://drbaxter.github.io/Google-Recode/)
 * [Neha Hirve's Solution (Both)](https://github.com/nehahirve/google-homepage) - [View in Browser](https://nehahirve.github.io/google-homepage/)
 * [Saroua's Solution (Easy)](https://github.com/saroua/google_homepage) - [View in Browser](https://saroua.github.io/google_homepage/)
+[Rijnie's Solution (Very Easy)](https://github.com/rijnie/google-homepage) - [View in Browser] 
+(https://rijnie.github.io/google-homepage/) 
+
 
 
 </details>
